@@ -1,0 +1,131 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'FontAwesome';
+    src: url('/fontawesome-free-5.12.0-web/..')
+}
+
+#nav {
+    background-color: black;
+    height: 5px;
+    line-height: normal;
+    position: absolute;
+    margin: 15px auto 0 auto;
+    text-decoration: none;
+    padding-left: 10px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.hr-header-1 {
+    bottom: 25px;
+    position: relative;
+}
+
+input::placeholder {
+    margin: 20px;
+    position: relative;
+    padding: 20px;
+    padding-left: 20px;
+    color: rgb(182, 182, 182);
+}
+
+.container {
+    position: relative;
+    left: 150px;
+}
+
+.header-row-2 {
+    bottom: 25px;
+    position: relative;
+}
+
+.header-row-2 {}
+
+.header-row-2 img {
+    left: 30px;
+    position: relative;
+}
+
+.header-row-2 input {
+    left: 70px;
+    position: relative;
+}
+
+.input-header-1 {
+    width: 570px;
+    height: 40px;
+}
+
+.header-row-2 a {
+    color: black;
+}
+
+.header-row-2 a img {
+    width: 20px;
+    height: 20px;
+}
+
+.input-header-1 {
+    border-color: green;
+    border: 2.0px solid rgb(42, 197, 42);
+    border-radius: 2px;
+}
+
+.ul1 a {
+    margin: 5px;
+    color: rgb(117, 115, 115);
+    font-size: 12px;
+}
+
+#nav .ul1 {
+    padding-top: 20px;
+    padding-left: 20px;
+    margin: 40px;
+}
+
+.header1 .ul1 ul .A1 {
+    left: 135px;
+    position: relative;
+    text-decoration: none;
+}
+
+#nav .ul2 a {
+    padding-top: 20px;
+    padding-right: 20px;
+    position: absolute;
+    top: 500px;
+    margin: 40px;
+    float: right;
+    right: 50px;
+}
+
+#nav .header1 {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.header1 {
+    align-self: justify auto;
+    align-content: justify auto;
+    text-decoration: none;
+}
+
+.ul2 {
+    float: right;
+    position: absolute;
+    right: 50px;
+}
+
+.header1 ul li a {
+    text-decoration: none;
+    position: relative;
+    color: rgb(117, 115, 115);
+    line-height: 15px;
+    margin: 100px;
+    padding: 10px 15px;
+    list-style: none;
+    padding: 1%;
+}
+
+.ul3 {}
